@@ -1,2 +1,0 @@
-# GuiLabDPS
-Guias de DPS
